@@ -1,8 +1,0 @@
-com\example\demo\DemoApplication.class
-com\example\demo\controllers\HomeController.class
-com\example\demo\models\ItemColecao.class
-com\example\demo\controllers\HelloController.class
-com\example\demo\models\TipoItem.class
-com\example\demo\services\GameService.class
-com\example\demo\repositories\ItemColecaoRepository.class
-com\example\demo\controllers\ItemColecaoController.class
